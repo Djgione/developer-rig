@@ -1,3 +1,12 @@
+# Native Developer Rig 1.0 is Now Available
+If you're looking to use the Developer Rig to work on your extensions, please download the Native Developer Rig.  
+
+We support [Mac](https://link.twitch.tv/2u8BNNm), [PC](https://s3-us-west-2.amazonaws.com/developer-rig-install-update-development/Twitch+Developer+Rig+Setup+1.0.0.exe) and [Linux](https://link.twitch.tv/2F8hFjw). 
+
+Documentation can be found [here](https://dev.twitch.tv/docs/extensions/rig/).
+
+Happy coding!
+
 # A New Direction for the Twitch Developer Rig
 Today (January 17, 2019), we’re announcing the steps we’re taking to improve the way we build and deliver the Developer Rig.  Our mission is to help developers build the best Extensions possible, and we believe we can better serve our customers by taking development fully in-house and moving the Developer Rig to a closed source model.  The immediate outcome of this strategic decision is the [native Developer Rig](https://discuss.dev.twitch.tv/t/announcing-the-native-developer-rig-beta/19126), which is currently in beta.  The native Rig combines a number of technical, UI, and usability improvements, delivering a faster start-up and an improved user experience.
 
