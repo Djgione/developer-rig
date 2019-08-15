@@ -1,7 +1,7 @@
 # Native Developer Rig 1.0 is Now Available
-If you're looking to use the Developer Rig to work on your extensions, please download the Native Developer Rig.  
+If you're looking to use the Developer Rig to work on your extensions, please download the Native Developer Rig.
 
-We support [Mac](https://link.twitch.tv/2u8BNNm), [PC](https://s3-us-west-2.amazonaws.com/developer-rig-install-update-development/Twitch+Developer+Rig+Setup+1.0.0.exe) and [Linux](https://link.twitch.tv/2F8hFjw). 
+We support [Mac](https://developer-rig.twitchcdn.net/Twitch%20Developer%20Rig.dmg), [Windows](https://developer-rig.twitchcdn.net/Twitch%20Developer%20Rig%20Setup.exe) and [Linux](https://developer-rig.twitchcdn.net/developer-rig-x86_64.AppImage).
 
 Documentation can be found [here](https://dev.twitch.tv/docs/extensions/rig/).
 
